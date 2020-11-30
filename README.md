@@ -1,7 +1,6 @@
 # hc-webapi-client
 
-Fill out .hc_account
-    {"company": "", "username": "", "password": ""}
+Fill .hc_account with`{"company": "", "username": "", "password": ""}`
 
 Run `python3 main.py` to scrape data
 
